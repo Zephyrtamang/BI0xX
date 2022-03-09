@@ -7,7 +7,7 @@
 -------------------------------------------------
 
 ## 🚀 ɖɛքʟօʏ ȶօ ɦɛʀօӄʊ
-[![Deploy](https://telegra.ph/file/d11bd20f01288a2144a60.jpg)](https://heroku.com/deploy?template=https://github.com/heaven2hellx/BI0xX)
+[![Deploy](https://telegra.ph/file/d11bd20f01288a2144a60.jpg)](https://heroku.com/deploy?template=https://github.com/Zephyrtamang/BI0xX)
 
 ------------------------------------------------
 
